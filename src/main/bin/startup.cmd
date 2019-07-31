@@ -1,0 +1,1 @@
+java -jar -Dspring.profiles.active=vision -Xms128m -Xmx128m ../lib/${jar.name}
